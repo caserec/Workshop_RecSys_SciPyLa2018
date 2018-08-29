@@ -1,0 +1,5 @@
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org numpy
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org scipy
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org sklearn
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org caserecommender
